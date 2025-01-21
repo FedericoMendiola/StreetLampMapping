@@ -6,3 +6,6 @@ Questo progetto mira a rilevare i lampioni stradali da immagini, calcolare la lo
 - **Prog_Depth.py**: Generazione delle mappe di profondità con MonoDepth2.
 - **Prog_3dMaps.py**: Calcolo delle coordinate 3D e mappa finale.
 - **lampMappingDEF.py**: Codice completo di tutto il progetto.
+
+## Link alla cartella Drive del datasets
+https://drive.google.com/drive/folders/1t9_pMRAh9-0dMOZD9ABein_mevsdCSXs?usp=drive_link
